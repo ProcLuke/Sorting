@@ -1,5 +1,7 @@
 from generator import get_random_list
 
+#komentář
+
 seznam = get_random_list(20, 0, 30)
 
 def buble_sort(list_):
